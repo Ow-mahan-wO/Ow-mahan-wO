@@ -14,7 +14,6 @@ Hi im mahan 👋<br>im front end developer
 <br/>
 ![](https://github-readme-stats.vercel.app/api?username=Ow-mahan-wO&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ow-mahan-wO&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ow-mahan-wO&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
